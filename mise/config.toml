@@ -1,0 +1,17 @@
+# mise global config — symlink to ~/.config/mise/config.toml
+# Install a tool: mise use --global <tool>@<version>
+# List available versions: mise ls-remote <tool>
+
+[tools]
+java = "21"
+go = "latest"
+maven = "latest"
+gradle = "latest"
+python = "latest"
+node = "lts"
+terraform = "latest"
+opentofu = "latest"
+kubectl = "latest"
+flux2 = "latest"
+postgres = "17"
+coreutils = "latest"
