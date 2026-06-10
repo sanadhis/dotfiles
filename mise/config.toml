@@ -21,7 +21,7 @@ opentofu = "1.12.1"
 kubectl = "1.36.1"
 kubectx = "0.11.0"
 kubens = "0.11.0"
-docker-cli = "29.5.2"
+docker-cli = "29.5.3"
 docker-compose = "5.1.4"
 
 coreutils = "0.9.0"
