@@ -38,7 +38,7 @@ cp path/to/agnoster-aws-vault.zsh-theme \
 
 ## 2. mise — dev tool versions
 
-`mise` manages: Java 21, Go, Maven, Gradle, Python, Node, Terraform, kubectl, Flux, PostgreSQL, MySQL, and coreutils.
+`mise` manages tools such as: Java, Go, Maven, Gradle, Python, Node, Terraform, kubectl, MySQL, and coreutils.
 
 > **Notes:**
 > - `postgres` and `mysql` install full server packages (not client-only). The CLI tools `psql` and `mysql` are included.
@@ -84,3 +84,7 @@ for specific environments. Install Anaconda separately from [anaconda.com](https
 ```shell
 ln -f -P ./zsh/zshrc $HOME/.zshrc
 ```
+
+# Additional iTerm settings:
+https://medium.com/@ThisIsUpen/how-to-jump-between-words-in-iterm2-3c22eb5a25ef
+https://stackoverflow.com/questions/32757635/how-to-preserve-iterm-folder-location-between-sessions
