@@ -27,6 +27,6 @@ docker-compose = "5.1.4"
 coreutils = "0.9.0"
 yq = "4.53.3"
 jq = "1.8.1"
-github-cli = "2.93.0"
+github-cli = "2.100.0"
 
 aws-cli = "2.35.2"
